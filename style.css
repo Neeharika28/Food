@@ -1,0 +1,21 @@
+button {
+  width: 350px;
+  height: 250px;
+  font-size: 30px;
+}
+img {
+  padding-top: 30px;
+  width: 200px;
+  height: 150px;
+}
+#tit {
+  font-size: 65px;
+  font-family: "Bebas Neue", cursive;
+}
+body {
+  text-align: center;
+  padding: 20px;
+}
+p {
+  font-family: "Sniglet", cursive;
+}
